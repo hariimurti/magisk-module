@@ -1,3 +1,24 @@
 # This file will be read by resetprop
 # Example: Change dpi
 # ro.sf.lcd_density=320
+
+# Battery Tweaks
+pm.sleep_mode=1
+ro.ril.disable.power.collapse=0
+ro.ril.fast.dormancy.rule=0
+ro.ril.power_collapse=1
+
+# Better Image & Audio Quality
+ro.media.enc.jpeg.quality=100
+ro.media.enc.hprof.vid.fps=65
+ro.media.dec.jpeg.memcap=8000000
+ro.media.enc.hprof.vid.bps=8000000
+
+# More Free RAM
+persist.sys.purgeable_assets=1
+
+# Disable sending usage data
+ro.config.nocheckin=1
+
+# Disable Adb Notification
+persist.adb.notify=0

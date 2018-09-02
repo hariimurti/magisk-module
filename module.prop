@@ -1,7 +1,7 @@
-id=harimurti-miui-tweaks
-name=Miui Tweaks
+id=harimurti-buildprop-tweaks
+name=Buildprop Tweaks
 version=v2018.08.16
 versionCode=2
 author=Harimurti
-description=Various tweak for battery saving (deep sleep), better image/video, disable btsnoop log, and others
+description=Various tweak for battery saving (deep sleep), better image/video, and others
 minMagisk=1500

@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=harimurti-pixel-bootanimation
+name=Pixel Boot Animation
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=Harimurti
+description=Changing bootanimation systemlessly
 minMagisk=1500

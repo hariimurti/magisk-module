@@ -4,4 +4,4 @@ version=v2018.09.02
 versionCode=1
 author=Harimurti
 description=Changing bootanimation systemlessly
-minMagisk=1500
+minMagisk=17000

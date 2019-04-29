@@ -1,6 +1,6 @@
-id=template
-name=Template Module
-version=v1
+id=harimurti-ram-optimization
+name=RAM Optimization
+version=v2019.04.28
 versionCode=1
-author=topjohnwu
-description=A short description
+author=Harimurti
+description=Optimization for device with 2Gb Ram. Based on Crok's work

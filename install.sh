@@ -123,7 +123,7 @@ REPLACE="
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "Install MusicFX from Syberia OS"
+  ui_print "  Install MusicFX from DotOS  "
   ui_print "*******************************"
 }
 

@@ -1,6 +1,6 @@
-id=template
-name=Template Module
-version=v1
+id=harimurti-musicfx-syberia
+name=MusicFX Pie - Syberia
+version=v2019.05.02
 versionCode=1
-author=topjohnwu
-description=A short description
+author=Harimurti
+description=inject/replace default musicfx. taken from syberia os

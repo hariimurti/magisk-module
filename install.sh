@@ -123,7 +123,8 @@ REPLACE="
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "     Magisk Module Template    "
+  ui_print "*  Customized Pixel Launcher  *"
+  ui_print "*   Feed and Weather Plugin   *"
   ui_print "*******************************"
 }
 

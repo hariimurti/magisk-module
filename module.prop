@@ -1,6 +1,6 @@
-id=template
-name=Template Module
-version=v1
+id=harimurti-gallery-pie
+name=Gallery Pie
+version=v2019.05.03
 versionCode=1
-author=topjohnwu
-description=A short description
+author=Harimurti
+description=Gallery2 taken from Havoc OS Pie

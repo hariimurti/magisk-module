@@ -1,6 +1,6 @@
-id=template
-name=Template Module
-version=v1
+id=harimurti-redmi-3x
+name=Redmi 3X
+version=v2019.05.06
 versionCode=1
-author=topjohnwu
-description=A short description
+author=Harimurti
+description=Set ro.product.model=Redmi 3X

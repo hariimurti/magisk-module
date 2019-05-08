@@ -1,6 +1,6 @@
-id=template
-name=Template Module
-version=v1
+id=harimurti-apns-conf
+name=APN and CarrierConfig
+version=v2019.05.08
 versionCode=1
-author=topjohnwu
-description=A short description
+author=Harimurti
+description=replace apns-conf.xml, witch taken from pixel experience
